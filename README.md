@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Pranesh L 
 
-<img src = "./pranesh.gif />
+<img src="./pranesh.gif" width="300"/>
 
-I am a AI enthusiast and I aspire to expand my interest over quantum computing , deep machine learning and computational modelling of dynamical systems and be an integral part of this age of A.I .I love to apply AI to the field of scientific research by developing new algorithms . I would like to utilize this platform to learn, collaborate with aspiring minds and grow as a community
+I am an AI enthusiast and I aspire to expand my interest over quantum computing, deep machine learning, and computational modelling of dynamical systems and be an integral part of this age of A.I. I love to apply AI to the field of scientific research by developing new algorithms. I would like to utilize this platform to learn, collaborate with aspiring minds, and grow as a community.
 
 <!--
 **lpranesh/lpranesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
