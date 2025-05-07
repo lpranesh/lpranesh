@@ -1,4 +1,6 @@
-
+<div align = "center">
+<img src="./HOME.png" width="819" height="500"/>
+</div>
 
 
 <div align="center">
