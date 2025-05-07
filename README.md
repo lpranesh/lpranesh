@@ -1,7 +1,5 @@
 
 
-<img src="./pranesh.gif" width="700" height="500"/>
-
 
 <div align="center">
   <h1>Hey &nbsp;&nbsp;&nbsp;<img src="./hey.gif" width="40"/> &nbsp;&nbsp;&nbsp;I'm Pranesh L</h1>
@@ -16,10 +14,10 @@
 <hr height="30px">
 <p align="center">
 
-  <img src="./wave-graph.gif" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./neural-net.gif" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./backend.gif" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./artificial-intelligence.gif" width="200" />
+  <img src="./wave-graph.gif" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./neural-net.gif" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./backend.gif" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./artificial-intelligence.gif" width="150" />
 </p>
 <hr height="30px">
 
@@ -28,31 +26,52 @@
   
 </div>
 
+<br>
+<br>
+
+
+
+
 <div >
   <h2><img src="./recent.gif" width="50"/><i> Recent work </i></h2> <h3><i>A visual workflow and architecture diagram generation model from a manually crafted custom dataset</i></h3>
   
 </div>
+<br>
+<br>
                              
                                
  <h2><img src="./software.gif" width="50"/><i> Tools and Technologies </i></h2>
  <div>
-    <img src="./icons8-python-100.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./icons8-java-48.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./icons8-javascript-100.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./icons8-react-100.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./icons8-nodejs-100.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./icons8-c++-100.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./icons8-pytorch-100.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./icons8-tensorflow-100.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./icons8-mysql-100.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./PostgresSQL.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./MongoDB.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./MATLAB.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./Docker.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./Figma.png" width="100" />
+    <img src="./icons8-python-100.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./icons8-java-48.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./icons8-javascript-100.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./icons8-react-100.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./icons8-nodejs-100.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./icons8-c++-100.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./icons8-pytorch-100.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./icons8-tensorflow-100.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./icons8-mysql-100.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./PostgresSQL.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./MongoDB.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./MATLAB.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./Docker.png" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./Figma.png" width="80" />
    
  </div>
+ <br>
+<br>
 
+ 
+<h2><img src="./connect.gif" width="50"/><i> Connect with me </i></h2>
+<div>
+  <a href = "https://www.linkedin.com/in/pranesh-l-55560327a">
+    <img src="./icons8-linkedin-100.png" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = "https://www.instagram.com/the_._pranesh._/">
+    <img src="./icons8-instagram-logo-100.png" width="50" />
+  </a>
+    
+</div>
 
 
 
