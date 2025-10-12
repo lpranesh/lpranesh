@@ -3,7 +3,7 @@
 </div>
 
 <div align = "center">
-<img src="./Screenshot 2025-10-12 225746" width="819" height="500"/>
+<img src="./Screenshot 2025-10-12 225746.png" width="819" height="500"/>
 </div>
 
 
