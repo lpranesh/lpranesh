@@ -1,5 +1,5 @@
 <div align = "center">
-<img src="./homer.png" width="819" height="500"/>
+<img src="./moving_life.gif" width="819" height="500"/>
 </div>
 
 
@@ -8,12 +8,13 @@
 </div>
 
 
+
 <p style="font-family: Poppins;">
   <i>I am an AI enthusiast and I aspire to expand my interest over quantum computing, deep machine learning, and computational modelling of dynamical systems and be an integral part of this age of 
   A.I. I love to apply AI to the field of scientific research by developing new algorithms.I am currently pursuing my B.Tech in Artificial Intelligence and Data Science from</i> <em><b>Amrita Vishwa 
   Vidyapeetham<b></em> . <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....I would like to utilize this platform to learn, collaborate with aspiring minds, and grow as a community ✨.</p>
 
-<hr height="30px">
+<img src="./fading_line.gif" />
 <p align="center">
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./wave-graph.gif" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,12 +22,15 @@
   <img src="./backend.gif" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./artificial-intelligence.gif" width="150" />
 </p>
-<hr height="30px">
+<img src="./fading_line.gif" />
 
 <div >
   <h2><img src="./target.gif" width="50"/><i> I'm currently working on : </i></h2> <h3><i>A Stanford problem for predicting 3D structure of RNA from its sequence using Deep learning</i></h3>
   
 </div>
+
+<img src="./fixing.gif" />
+
 
 <br>
 <br>
