@@ -2,6 +2,10 @@
 <img src="./moving_life.gif" width="819" height="500"/>
 </div>
 
+<div align = "center">
+<img src="./Screenshot 2025-10-12 225746" width="819" height="500"/>
+</div>
+
 
 <div align="center">
   <h1>Hey &nbsp;&nbsp;&nbsp;<img src="./hey.gif" width="40"/> &nbsp;&nbsp;&nbsp;I'm Pranesh L</h1>
