@@ -3,13 +3,10 @@
 </div> -->
 
 <div align = "center">
-<img src="./Screenshot 2025-10-12 225746.png" width="819" height="500"/>
+<img src="./arch.png" width="1000" height="500"/>
 </div>
 
 
-<div align="center">
-  <h1>Hey &nbsp;&nbsp;&nbsp;<img src="./hey.gif" width="40"/> &nbsp;&nbsp;&nbsp;I'm Pranesh L</h1>
-</div>
 
 
 
