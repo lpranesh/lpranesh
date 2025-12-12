@@ -12,6 +12,7 @@
 <br>
 
 <div >
+ <h2><img src="./recent.gif" width="50"/><i> About me </i></h2> 
  <h3><i>I am a Philomath and I love working with deep machine learning, computational modelling of dynamical systems, and simulations. I also have a huge love for networking and low-level programming. I love to apply AI to the field of scientific research by developing new algorithms... as I said, I have an urge to learn everything related to technology.<br>
   I am currently learning about Cars and things related to automobile engineering to see whether I could apply AI there to bring game-changing solutions.<br><br>
   I am currently pursuing my B.Tech in Artificial Intelligence and Data Science from</i> <b><em>Amrita Vishwa Vidyapeetham</em></b>.</h3>
@@ -37,7 +38,7 @@
 <!-- <img src="./fading_line.gif" /> -->
 
 <div >
-  <h2><img src="./target.gif" width="50"/><i> I'm currently working on : </i></h2> <h3><i>Project Asterion - A neuro symbolic video understanding , question answering and reasoning AI having applications in numerous edge devices and day to day useful devices , It will be available even in Cooling glasses 😎 and smart phones, as a helpful assisant in visual tasks STAY TUNED</i></h3>
+  <h2><img src="./recent.gif" width="50"/><i> I'm currently working on : </i></h2> <h3><i>Project Asterion - A neuro symbolic video understanding , question answering and reasoning AI having applications in numerous edge devices and day to day useful devices , It will be available even in Cooling glasses 😎 and smart phones, as a helpful assisant in visual tasks STAY TUNED</i></h3>
   <div align = "center">
 <img src="./astrion.png" width="819" height="500"/>
 </div>
@@ -184,13 +185,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
   </a>
 </p>
-<h2><img src="./connect.gif" width="50"/><i> Connect with me </i></h2>
+<h2><img src="./recent.gif" width="50"/><i>Socials</i></h2>
 <div>
   <a href = "https://www.linkedin.com/in/pranesh-l-55560327a">
     <img src="./icons8-linkedin-100.png" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.instagram.com/the_._pranesh._/">
-    <img src="./icons8-instagram-logo-100.png" width="50" />
+  <a href = "lpraneshoff@gmail.com">
+    <img src="./icons8-gmail-100.png" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = "lpraneshoff@outlook.com">
+    <img src="./icons8-outlook-100.png" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = "lpraneshoff@gmail.com">
+    <img src="./icons8-leetcode-100.png" width="50" />
   </a>
     
 </div>
