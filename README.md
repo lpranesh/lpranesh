@@ -3,7 +3,7 @@
 </div> -->
 
 <div align = "center">
-<img src="./arch2.png" width="1000" height="500"/>
+<img src="./arch3.png" width="1000" height="500"/>
 </div>
 
 
@@ -13,12 +13,18 @@
 <br>
 <br>
 
-<p style="font-family: Poppins; font-size: 25px;">
+<div >
+ <h3><i>I am a Philomath and I love working with deep machine learning, computational modelling of dynamical systems, and simulations. I also have a huge love for networking and low-level programming. I love to apply AI to the field of scientific research by developing new algorithms... as I said, I have an urge to learn everything related to technology.<br>
+  I am currently learning about Cars and things related to automobile engineering to see whether I could apply AI there to bring game-changing solutions.<br><br>
+  I am currently pursuing my B.Tech in Artificial Intelligence and Data Science from</i> <b><em>Amrita Vishwa Vidyapeetham</em></b>.</h3>
+</div>
+
+<!-- <p style="font-family: Poppins; font-size: 25px;">
   <i>I am a Philomath and I love working with deep machine learning, computational modelling of dynamical systems, and simulations. I also have a huge love for networking and low-level programming. I love to apply AI to the field of scientific research by developing new algorithms... as I said, I have an urge to learn everything related to technology.<br><br>
   I am currently learning about Cars and things related to automobile engineering to see whether I could apply AI there to bring game-changing solutions.<br><br>
   I am currently pursuing my B.Tech in Artificial Intelligence and Data Science from</i> <b><em>Amrita Vishwa Vidyapeetham</em></b>.<br><br>
   .I would like to utilize this platform to learn, collaborate with aspiring minds, and grow as a community ✨.
-</p>
+</p> -->
 
 <!-- <img src="./fading_line.gif" /> -->
 <p align="center">
