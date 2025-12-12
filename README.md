@@ -38,7 +38,7 @@
 <!-- <img src="./fading_line.gif" /> -->
 
 <div >
-  <h2><img src="./recent.gif" width="50"/><i> I'm currently working on : </i></h2> <h3><i>Project Asterion - A neuro symbolic video understanding , question answering and reasoning AI having applications in numerous edge devices and day to day useful devices , It will be available even in Cooling glasses 😎 and smart phones, as a helpful assisant in visual tasks STAY TUNED</i></h3>
+  <h2><img src="./recent.gif" width="50"/><i> I'm currently working on : </i></h2> <h3><i>Project Astrion - A neuro symbolic video understanding , question answering and reasoning AI having applications in numerous edge devices and day to day useful devices , It will be available even in Cooling glasses 😎 and smart phones, as a helpful assisant in visual tasks STAY TUNED</i></h3>
   <div align = "center">
 <img src="./astrion.png" width="819" height="500"/>
 </div>
