@@ -1,6 +1,6 @@
-<div align = "center">
+<!-- <div align = "center">
 <img src="./moving_life.gif" width="819" height="500"/>
-</div>
+</div> -->
 
 <div align = "center">
 <img src="./Screenshot 2025-10-12 225746.png" width="819" height="500"/>
@@ -14,11 +14,12 @@
 
 
 <p style="font-family: Poppins;">
-  <i>I am an AI enthusiast and I aspire to expand my interest over quantum computing, deep machine learning, and computational modelling of dynamical systems and be an integral part of this age of 
-  A.I. I love to apply AI to the field of scientific research by developing new algorithms.I am currently pursuing my B.Tech in Artificial Intelligence and Data Science from</i> <em><b>Amrita Vishwa 
+  <i>I am an Philomath and I love working with, deep machine learning,computational modelling of dynamical systems, simulating it and I also have huge love for networking and low level programming. I love to apply AI to the field of scientific research by developing new algorithms and it goes on .... as I said I have an urge to learn everything which is related to technology 
+    I am currently learning about Cars and things related to auto-mobile to see whether I could apply AI over there to bring game changing solutions 
+    I am currently pursuing my B.Tech in Artificial Intelligence and Data Science from</i> <em><b>Amrita Vishwa 
   Vidyapeetham<b></em> . <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....I would like to utilize this platform to learn, collaborate with aspiring minds, and grow as a community ✨.</p>
 
-<img src="./fading_line.gif" />
+<!-- <img src="./fading_line.gif" /> -->
 <p align="center">
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./wave-graph.gif" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,14 +27,18 @@
   <img src="./backend.gif" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./artificial-intelligence.gif" width="150" />
 </p>
-<img src="./fading_line.gif" />
+<!-- <img src="./fading_line.gif" /> -->
 
 <div >
-  <h2><img src="./target.gif" width="50"/><i> I'm currently working on : </i></h2> <h3><i>A Stanford problem for predicting 3D structure of RNA from its sequence using Deep learning</i></h3>
+  <h2><img src="./target.gif" width="50"/><i> I'm currently working on : </i></h2> <h3><i>Project Asterion - A neuro symbolic video understanding , question answering and reasoning AI having applications in numerous edge devices and day to day useful devices , It will be available even in Cooling glasses 😎 and smart phones, as a helpful assisant in visual tasks STAY TUNED</i></h3>
+  <div align = "center">
+<img src="./astrion.png" width="819" height="500"/>
+</div>
+
   
 </div>
 
-<img src="./fixing.gif" />
+<!-- <img src="./fixing.gif" /> -->
 
 
 <br>
@@ -43,7 +48,11 @@
 
 
 <div >
-  <h2><img src="./recent.gif" width="50"/><i> Recent work </i></h2> <h3><i>A visual workflow and architecture diagram generation model from a manually crafted custom dataset</i></h3>
+  <h2><img src="./recent.gif" width="50"/><i> Recent work </i></h2> <h3><i>An open source order matching engine in Rust to allow seamless trading without any latency to process millions of trades and this engine is the core of it </i></h3>
+
+  <div align = "center">
+<img src="./ome.png" width="819" height="500"/>
+</div>
   
 </div>
 <br>
